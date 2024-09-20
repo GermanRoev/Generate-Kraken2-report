@@ -20,7 +20,7 @@ parser.add_argument('-taxid_col', '--taxid_col', type=str, default='taxid', help
 parser.add_argument('-count_col', '--count_col', type=str, default='scaffold_count', help='Column name with counts')
 args = parser.parse_args()
 
-PATH_TO_TAXDB = '...'
+PATH_TO_TAXDB = '...'  # SPECIFY HERE
 
 
 ####################################################################################################
