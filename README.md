@@ -1,5 +1,5 @@
 # Generate-Kraken2-report
-This script allows you to generate Kraken2-style reports
+This script allows you to generate Kraken2-style reports.
 Your initial file should be in a tsv format and should contain 2 columns: NCBI taxid and Read amount for a given taxid. 
 You can specify column names in a command line.
 
